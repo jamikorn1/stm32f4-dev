@@ -4,7 +4,7 @@ PROJ_NAME=loap_stm32f4
 #                   SETUP TOOLS                                                #
 ################################################################################
 
-TOOLS_DIR = ~/Proj/gcc-arm-none-eabi-4_7-2013q3/bin
+TOOLS_DIR = ./gcc-arm-none-eabi-4_8-2013q4/bin
 
 CC      = $(TOOLS_DIR)/arm-none-eabi-gcc
 OBJCOPY = $(TOOLS_DIR)/arm-none-eabi-objcopy
