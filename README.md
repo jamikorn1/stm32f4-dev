@@ -3,6 +3,13 @@ stm42f4-dev
 
 Projects for STM32F4DISCOVERY 
 
+How to build:
+ - make init
+ - make 
+ - sudo make flash
+ 
+External dependens:
+
 STM32F4-Discovery_FW_V1.1.0
  - http://www.st.com/st-web-ui/static/active/en/st_prod_software_internet/resource/technical/software/firmware/stsw-stm32068.zip
 
