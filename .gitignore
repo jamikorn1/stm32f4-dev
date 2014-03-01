@@ -1,3 +1,8 @@
+# external
+external/
+STM32F4-Discovery_FW_V1.1.0/
+gcc-arm-none-eabi-4_8-2013q4/
+
 # Object files
 *.o
 *.ko
@@ -6,13 +11,14 @@
 *.lib
 *.a
 
-# Shared objects (inc. Windows DLLs)
-*.dll
+# Shared objects
 *.so
 *.so.*
 *.dylib
 
 # Executables
-*.exe
 *.out
 *.app
+*.bin
+*.elf
+*.hex
